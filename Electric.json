@@ -1,0 +1,98 @@
+{
+  "Products": {
+    "Product_category": {
+      "Electronics": [
+        {
+          "id": "e1",
+          "Price": 197,
+          "Brand": "VIVO",
+          "Colour": "Black",
+          "Product_name": "vivo Y11s 4G Smartphone, 32GB, 6.51\" HD Display (Phantom Black)",
+          "Wireless_carrier": "Unlocked for All Carriers",
+          "Memory_storage_capacity": "3 GB",
+          "Screen_size": "6.51 Inches",
+          "Operating_system": ""
+        },
+        {
+          "id": "e2",
+          "Price": 294.26,
+          "Brand": "Samsung",
+          "Colour": "White",
+          "Product_name": "Samsung Galaxy A21S 128GB Black",
+          "Wireless_carrier": "Unlocked for All Carriers",
+          "Memory_storage_capacity": "128 GB",
+          "Screen_size": "",
+          "Operating_system": "Android 10.0, Android"
+        },
+        {
+          "id": "e3",
+          "Price": 114,
+          "Brand": "Nokia",
+          "Colour": "Ocean Black",
+          "Product_name": "Nokia 2720 Flip 4G (Official Australian Version) 2019 Unlocked Basic Mobile Phone with Social Apps, Emergency Button, 28 Days Battery Standby and Google Assistant, Ocean Black, 2.8 inches",
+          "Wireless_carrier": "Unlocked for All Carriers",
+          "Memory_storage_capacity": "4 GB",
+          "Screen_size": "",
+          "Operating_system": "KaiOS"
+        },
+        {
+          "id": "e4",
+          "Price": 2019,
+          "Brand": "Apple",
+          "Colour": "Gold",
+          "Product_name": "Apple iPhone 12 Pro Max 256Gb Gold (MGD13J/A)",
+          "Wireless_carrier": "Unlocked for All Carriers",
+          "Memory_storage_capacity": "6 GB",
+          "Screen_size": "6.7 Inches",
+          "Operating_system": "iOS"
+        }
+      ],
+      "Electronics_2": [
+        {
+          "id": "e5",
+          "Price": 748.07,
+          "Brand": "DELL",
+          "OS": "Windows 10",
+          "CPU": "Intel",
+          "Product_name": "Dell Inspiron 15 3000 Full HD Touchscreen Laptop Core i7-1065G7 up to 3.90 GHz 20GB RAM 1TB SSD+1TB HDD Numeric Keypad HDMI WiFi RJ-45 Ethernet Win 10 QWERTY US",
+          "Screen_size": "15.6 Inches",
+          "Computer_memory_size": "8 GB",
+          "Hard_disk_size": ""
+        },
+        {
+          "id": "e6",
+          "Price": 831.93,
+          "Brand": "HUAWEI",
+          "OS": "Windows 10 Home",
+          "CPU": "AMD",
+          "Product_name": "Huawei MateBook D 15 2020 - 15.6 Inch Laptop with FullView 1080P FHD Ultrabook PC (AMD Ryzen 5 3500U, 8GB RAM, 256GB SSD, Windows 10 Home, Multi-Screen Collaboration, Fingerprint Reader), Space Grey",
+          "Screen_size": "15.6 Inches",
+          "Computer_memory_size": "8 GB",
+          "Hard_disk_size": ""
+        },
+        {
+          "id": "e7",
+          "Price": 395,
+          "Brand": "Lenovo",
+          "OS": "Chrome OS",
+          "CPU": "\"\tOthers\"",
+          "Product_name": "Lenovo Ideapad Duet Chromebook, Chrome OS, 4GB RAM, 128GB SSD, 10.1\" CT-X636F, Ice Blue + Iron Grey, ZA6F0017AU, AU Version",
+          "Screen_size": "10.1 Inches",
+          "Computer_memory_size": "4 GB",
+          "Hard_disk_size": ""
+        },
+        {
+          "id": "e8",
+          "Price": 4779,
+          "Brand": "Apple",
+          "OS": "Mac OS X",
+          "CPU": "\"\tIntel\"",
+          "Product_name": "Apple MacBook Pro | 15.4\" | 2.9GHz 6-core i9 | 1TB Storage | 32GB Memory | Radeon Pro Vega 20 | Space Grey | 2018 | (Renewed)",
+          "Screen_size": "",
+          "Computer_memory_size": "32 GB",
+          "Hard_disk_size": "1TB"
+        }
+      ]
+    }
+  }
+}

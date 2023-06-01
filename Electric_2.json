@@ -1,0 +1,46 @@
+[
+  {
+    "id": "e5",
+    "Price": 748.07,
+    "Brand": "DELL",
+    "OS": "Windows 10",
+    "CPU": "Intel",
+    "Product_name": "Dell Inspiron 15 3000 Full HD Touchscreen Laptop Core i7-1065G7 up to 3.90 GHz 20GB RAM 1TB SSD+1TB HDD Numeric Keypad HDMI WiFi RJ-45 Ethernet Win 10 QWERTY US",
+    "Screen_size": "15.6 Inches",
+    "Computer_memory_size": "8 GB",
+    "Hard_disk_size": ""
+  },
+  {
+    "id": "e6",
+    "Price": 831.93,
+    "Brand": "HUAWEI",
+    "OS": "Windows 10 Home",
+    "CPU": "AMD",
+    "Product_name": "Huawei MateBook D 15 2020 - 15.6 Inch Laptop with FullView 1080P FHD Ultrabook PC (AMD Ryzen 5 3500U, 8GB RAM, 256GB SSD, Windows 10 Home, Multi-Screen Collaboration, Fingerprint Reader), Space Grey",
+    "Screen_size": "15.6 Inches",
+    "Computer_memory_size": "8 GB",
+    "Hard_disk_size": ""
+  },
+  {
+    "id": "e7",
+    "Price": 395,
+    "Brand": "Lenovo",
+    "OS": "Chrome OS",
+    "CPU": "Others",
+    "Product_name": "Lenovo Ideapad Duet Chromebook, Chrome OS, 4GB RAM, 128GB SSD, 10.1\" CT-X636F, Ice Blue + Iron Grey, ZA6F0017AU, AU Version",
+    "Screen_size": "10.1 Inches",
+    "Computer_memory_size": "4 GB",
+    "Hard_disk_size": ""
+  },
+  {
+    "id": "e8",
+    "Price": 4779,
+    "Brand": "Apple",
+    "OS": "Mac OS X",
+    "CPU": "Intel",
+    "Product_name": "Apple MacBook Pro | 15.4\" | 2.9GHz 6-core i9 | 1TB Storage | 32GB Memory | Radeon Pro Vega 20 | Space Grey | 2018 | (Renewed)",
+    "Screen_size": "",
+    "Computer_memory_size": "32 GB",
+    "Hard_disk_size": "1TB"
+  }
+]

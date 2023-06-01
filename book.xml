@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Products>
+  <Product_category>
+    <Books>
+      <id>b1</id>
+      <description>The Power of HABIT: Why We Do What We Do in Life and Business. A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed.</description>
+      <price>16.33</price>
+      <author>Charles Duhigg</author>
+      <type>hardcover</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/51ejXdSceNL._AA300_.jpg</img>
+      <inCart>false</inCart>
+      <category>business</category>
+      <Book_name>The Power of HABIT</Book_name>
+    </Books>
+    <Books>
+      <id>b2</id>
+      <description>&#x27;Think and Grow Rich!&#x27; explains entrepreneur Andrew Carnegie’s secret to success, revealed to Napoleon Hill during private interviews with Carnegie, the richest man of his time, and during more than 20 years of research into the lives and philosophies of more than 500 of the most successful people in America. This timeless classic presents a systematic nuts-and-bolts approach to developing the skills and mindset required to achieve exceptional success in any field or endeavor, personal or professional. Hill explains in detail 13 steps required to achieve those goals. The book contains numerous self-tests and checklists.</description>
+      <price>8.98</price>
+      <author>Napoleon Hill</author>
+      <type>hardcover</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/51ZouHoBGtL._SX315_BO1,204,203,200_.jpg</img>
+      <inCart>false</inCart>
+      <category>business</category>
+      <Book_name>Think and Grow Rich</Book_name>
+    </Books>
+    <Books>
+      <id>b3</id>
+      <description>&#x27;The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. The 7 Habits of Highly Effective People, the beloved classic that has sold over 20 million copies worldwide, is celebrating its 25th anniversary with this reissue! With a new foreword, the wisdom of the 7 Habits still holds true after all these years. The 7 Habits have become so famous because they work. They have been integrated into everyday thinking by many millions of people. The reason: They work. Habit 1: Be Proactive. Habit 2: Begin with the End in Mind. Habit 3: Put First Things First. Habit 4: Think Win/Win. Habit 5: Seek First to Understand, Then to Be Understood. Habit 6: Synergize. Habit 7: Sharpen the Saw. The book presents a principle-centered approach for solving personal and professional problems.</description>
+      <price>11.48</price>
+      <author>Stephen R. Covey</author>
+      <type>paperback</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/51Myx6jMujL._AA300_.jpg</img>
+      <inCart>false</inCart>
+      <category>business</category>
+      <Book_name>The 7 Habits of Highly Effective People</Book_name>
+    </Books>
+    <Books>
+      <id>b4</id>
+      <description>In Principles, Dalio shares what he&#x27;s learned over the course of his remarkable career. He argues that life, management, economics, and investing can all be systemized into rules and understood like machines.</description>
+      <price>18</price>
+      <author>Ray Dalio</author>
+      <type>hardcover</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/51UyMOpP%2BGL._AA300_.jpg</img>
+      <inCart>false</inCart>
+      <category>business</category>
+      <Book_name>Principles: Life and Work</Book_name>
+    </Books>
+    <Books>
+      <id>b5</id>
+      <description>For more than sixty years the rock-solid, time-tested advice in this book has carried thousands of now famous people up the ladder of success in their business and personal lives. Now this previously revised and updated bestseller is available in trade paperback for the first time to help you achieve your maximum potential throughout the next century!</description>
+      <price>9.6</price>
+      <author>Dale Carnegie</author>
+      <type>paperback</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/51PWIy1rHUL._AA300_.jpg</img>
+      <inCart>false</inCart>
+      <category>business</category>
+      <Book_name>How to Win Friends &amp; Influence People</Book_name>
+    </Books>
+    <Books>
+      <id>b6</id>
+      <description>Since 2009, Melissa Hartwig’s critically-acclaimed Whole30 program has quietly led hundreds of thousands of people to effortless weight loss and better health—along with stunning improvements in sleep quality, energy levels, mood, and self-esteem. The program accomplishes all of this by specifically targeting people’s habits and emotional relationships with food. The Whole30 is designed to help break unhealthy patterns of behavior, stop stress-related comfort eating, and reduce cravings, particularly for sugar and carbohydrates. Many Whole30 participants have described achieving &#x27;food freedom&#x27;—in just thirty days.</description>
+      <price>18</price>
+      <author>Melissa Hartwig</author>
+      <type>hardcover</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/61WFjEDBktL._SX437_BO1,204,203,200_.jpg</img>
+      <inCart>false</inCart>
+      <category>cookbooks</category>
+      <Book_name>The Whole 30</Book_name>
+    </Books>
+    <Books>
+      <id>b7</id>
+      <description>Ever wondered how to pan-fry a steak with a charred crust and an interior that&#x27;s perfectly medium-rare from edge to edge when you cut into it? How to make homemade mac &#x27;n&#x27; cheese that is as satisfyingly gooey and velvety-smooth as the blue box stuff, but far tastier? How to roast a succulent, moist turkey (forget about brining!)―and use a foolproof method that works every time?</description>
+      <price>33.94</price>
+      <author>J. Kenji López-Alt</author>
+      <type>harcover</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/419aGgQt-5L._SX392_BO1,204,203,200_.jpg</img>
+      <inCart>false</inCart>
+      <category>cookbooks</category>
+      <Book_name>The Food Lab</Book_name>
+    </Books>
+    <Books>
+      <id>b10</id>
+      <description>A breakneck thriller where truth and fiction collide for the unluckiest writer alive.</description>
+      <price>4.99</price>
+      <author>Lee Goldberg</author>
+      <type>kindle</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/51UbplnqSgL._SX331_BO1,204,203,200_.jpg</img>
+      <inCart>false</inCart>
+      <category>mystery</category>
+      <Book_name>True Fiction (Ian Ludlow Thrillers)</Book_name>
+    </Books>
+    <Books>
+      <id>b11</id>
+      <description>An FBI agent must catch a copycat killer. The only difference this time: she&#x27;s the final victim.</description>
+      <price>7.91</price>
+      <author>Mary Burton</author>
+      <type>paperback</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/514jRDA21TL._AA300_.jpg</img>
+      <inCart>false</inCart>
+      <category>mystery</category>
+      <Book_name>The Last Move</Book_name>
+    </Books>
+    <Books>
+      <id>b17</id>
+      <description>As a whole, this series comprises a genuine masterpiece of modern fantasy, bringing together the best the genre has to offer. Magic, mystery, intrigue, romance, and adventure fill these pages and transport us to a world unlike any we have ever experienced.</description>
+      <price>25.16</price>
+      <author>George R. R. Martin</author>
+      <type>hardcover</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/51n5SAiAz7L._AA300_.jpg</img>
+      <inCart>false</inCart>
+      <category>accessories</category>
+      <Book_name>A Game of Thrones: A Song of Ice and Fire, Book 1</Book_name>
+    </Books>
+    <Books>
+      <id>b18</id>
+      <description>In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others.</description>
+      <price>27.66</price>
+      <author>J.R.R. Tolkien</author>
+      <type>hardcover</type>
+      <img>https://images-na.ssl-images-amazon.com/images/I/51d4G0sFMzL.jpg</img>
+      <inCart>false</inCart>
+      <category>scifi</category>
+      <Book_name>The Lord of the Rings: One Volume</Book_name>
+    </Books>
+  </Product_category>
+</Products>
